@@ -5,22 +5,22 @@ Presidental Waterfall 2.0 Andrea N. Abigail R.
 2021-02-02 ->
 
 h1 {
-    color: gray
-    font-size: 160%
-    font-family: verdana
-    text-align: right
+    color: white;
+    font-size: 160%;
+    font-family: verdana;
+    text-align: right;
 }
 
 /* this will style all h2 elements with color black */
 h2 {
-    color: white
-    font-size: 80%
-    font-family: verdana
-    text-align: right
+    color: white;
+    font-size: 80%;
+    font-family: verdana;
+    text-align: right;
 }
 
 p {
-    color: white
+    color: white;
 }
 
 body {
